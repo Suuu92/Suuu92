@@ -1,5 +1,4 @@
-# Hi there✨ I'm Yunhan Bao! 
-# You can call me Suzen!
+# Hi there✨ I'm Yunhan Bao! You can call me Suzen!
 
 🎓 Third-year Computer Engineering @ University of Toronto  
 📌 Minors in Artificial Intelligence & Engineering Business  
