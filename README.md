@@ -10,7 +10,6 @@
 - Persistent problem-solver with a strong foundation in **C/C++**
 - Experienced in bridging **hardware and software** through embedded projects and interactive systems  
 - Enjoy working on projects that combine **user experience, design, and engineering**  
-- Actively preparing for **PEY Co-op 2026** and pursuing a future in **embedded software engineering** or **HCI**  
 
 ---
 
@@ -33,6 +32,16 @@
 - Optimized the **Traveling Courier Problem** with **simulated annealing + OpenMP multithreading**  
 
 🔗 [Final Presentation Slides](https://docs.google.com/presentation/d/1IrfunQFE_YsbqM-EYZ-pReVSyZ9F9ZnEetw_7qkcVok/edit?usp=sharing)  
+
+---
+
+### ⌚ PulseTrack — Wearable Health Monitor  
+*Hackathon Project*  
+- Designed and prototyped a **wearable system** to monitor heart rate and activity levels in real time  
+- Built a **mobile/web dashboard** to visualize heart rate trends and activity metrics  
+- Focused on **health applications**: promoting proactive well-being through continuous monitoring  
+
+🔗 [Project Repo](https://github.com/joewang0430/health-monitor) | [Devpost/Demo Video](https://devpost.com/software/pulsetrack-8f03jd)  
 
 ---
 
