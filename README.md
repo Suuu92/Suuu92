@@ -15,19 +15,19 @@
 
 ## 🌟 Featured Projects
 
-### 🎶 CHUMMY — Interactive Music Therapy System | Python, React, HTML, CSS, Raspberry Pi
+### 🎶 CHUMMY — Interactive Music Therapy System | _Python, React, HTML, CSS, Raspberry Pi_
 🔗 [Project Repo](https://github.com/Interactive-Media-Lab/chummy) | [UnERD Presentation Slides](https://docs.google.com/presentation/d/1omyc1FbZ00v5FQbh6goYSK7_PxBGhj8q4-tKPLGuT10/edit?usp=sharing) 
 
-### 🗺 City Mapify — GIS Navigation System | C++, OpenStreetMap
+### 🗺 City Mapify — GIS Navigation System | _C++, OpenStreetMap_
 🔗 [Final Presentation Slides](https://docs.google.com/presentation/d/1IrfunQFE_YsbqM-EYZ-pReVSyZ9F9ZnEetw_7qkcVok/edit?usp=sharing)  
 
-### ⌚ PulseTrack — Wearable Health Monitor | React, TypeScript
+### ⌚ PulseTrack — Wearable Health Monitor | _React, TypeScript_
 🔗 [Project Repo](https://github.com/joewang0430/health-monitor) | [Devpost/Demo Video](https://devpost.com/software/pulsetrack-8f03jd)  
 
-### 🎮 FPGA Whack-a-Mole Game | RISC-V Assembly, C
+### 🎮 FPGA Whack-a-Mole Game | _RISC-V Assembly, C_
 🔗 [Demo Video](https://youtu.be/bYh9xBfWhuk)  
 
-### 🎹 FPGA Music Synthesizer | Verilog
+### 🎹 FPGA Music Synthesizer | _Verilog_
 🔗 [Presentation Slides](https://docs.google.com/presentation/d/1VOcewGfMgr472uP1IPeept09NNeDE3JWqFo3bC-VwNw/edit?usp=sharing)  
 
 ---
